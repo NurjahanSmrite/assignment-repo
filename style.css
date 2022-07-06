@@ -66,4 +66,25 @@ p{
  text-decoration: underline;
 padding: 4%;
 }
- 
+ .food-family div{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+     text-align: center;
+    background-color:   gainsboro;
+    margin: 1%;
+ }
+ .food-family{
+    text-align: justify;
+    margin-left: 10%;
+ }
+ #food{
+    background-color:powderblue;
+ }
+ #shelter{
+    background-color: pink;
+ }
+#education{
+    background-color: antiquewhite;
+}
