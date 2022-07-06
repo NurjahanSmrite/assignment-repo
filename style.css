@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.help-children{
+    background-image: url("donate.jpg");
+     background-repeat: no-repeat;
+     height: 500px;
+     background-size: cover;
+   
+}
+section{
+    height: 400px;
+     padding-bottom: 140px;
+}
+
+.help-children h1{
+    font-size: 55px;
+    color: aliceblue;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+}
+.help-children p{
+    color: aliceblue;
+    text-align: center;
+}
+.anchor-button{
+    text-decoration: none;
+    background: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+     margin-left: 40%;
+     margin-top: 10%;
+     font-size: 16px;
+}
