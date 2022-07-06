@@ -104,3 +104,34 @@ padding: 4%;
     font-size: 20px;
     color: gray;
 }
+input[type=Email] {
+    width: 20%;
+     padding: 12px 40px;
+    margin: 16px 0;
+   font-size: 15px;
+    background-color:  gainsboro;
+    border: 1px solid #ccc;
+    color: grey;
+    border-radius: 5px;
+     
+  }
+  input[type=button] {
+    width: 15%;
+    padding: 12px 15px;
+    margin: 8px 0;
+     font-size: 15px;
+    background-color: rgba(255, 0, 0, 0.678);
+    color: aliceblue;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  form{
+   
+     
+    padding: 3%;
+    margin-left: 22%;
+    margin-right: 22%;
+    background-color: #FFE6E6;
+  }
+   
