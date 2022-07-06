@@ -88,3 +88,19 @@ padding: 4%;
 #education{
     background-color: antiquewhite;
 }
+.donate-section{
+    width: 40%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+}
+.donate-section img{
+    width: 100%;
+    padding-top: 2px;
+    border-radius: 5px;
+}
+.donate-section p{
+    padding-bottom: 10%;
+    font-size: 20px;
+    color: gray;
+}
