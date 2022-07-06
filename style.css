@@ -11,7 +11,7 @@ body{
 }
 section{
     height: 400px;
-     padding-bottom: 140px;
+     padding-bottom: 110px;
 }
 
 .help-children h1{
@@ -133,5 +133,18 @@ input[type=Email] {
     margin-left: 22%;
     margin-right: 22%;
     background-color: #FFE6E6;
+  }
+  footer{
+    background-color: black;
+    color: red;
+    padding-top: 3%;
+    text-align: center;
+    margin: 2px;
+    padding-bottom: 1%;
+  }
+  footer p{
+    color: grey;
+    padding-bottom: 13px;
+    font-size: 14px;
   }
    
